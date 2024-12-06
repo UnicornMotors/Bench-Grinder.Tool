@@ -5,6 +5,7 @@ sch:
 - https://www.aliexpress.us/w/wholesale-6-inch-bench-grinder.html?spm=a2g0o.home.auto_suggest.5.135076db7din3a
 - https://www.lowes.com/search?searchTerm=bench%20grinder
 - https://www.homedepot.com/b/Tools-Power-Tools-Grinders-Bench-Grinders/N-5yc1vZc29t
+- https://www.walmart.com/search?q=bench%20grinder&typeahead=bench%20grinde
 
 ## index:
 

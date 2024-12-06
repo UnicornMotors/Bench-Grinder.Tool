@@ -9,11 +9,17 @@ sch:
 ## index:
 
 ## brand: Wen
-https://www.amazon.com/stores/page/9C88BFC2-6107-48B7-AF06-C7511774CE86/search?ref_=ast_bln&terms=bench%20grinder
+- $46 Local pickup!  https://www.lowes.com/pd/WEN-WEN-BG4260-2-1-Amp-6-Inch-Single-Speed-Bench-Grinder/5012515491
+
+sch:
+- https://www.amazon.com/stores/page/9C88BFC2-6107-48B7-AF06-C7511774CE86/search?ref_=ast_bln&terms=bench%20grinder
+
 
 ## 6 inch
-$46  https://www.lowes.com/pd/WEN-WEN-BG4260-2-1-Amp-6-Inch-Single-Speed-Bench-Grinder/5012515491
-$44.50  https://www.aliexpress.us/item/3256802110536517.html
+- $46  https://www.lowes.com/pd/WEN-WEN-BG4260-2-1-Amp-6-Inch-Single-Speed-Bench-Grinder/5012515491
+- $44.50  https://www.aliexpress.us/item/3256802110536517.html
+- $49  https://www.harborfreight.com/power-tools/grinders/bench-grinders/6-in-bench-grinder-with-led-lights-57286.html
+- $55  https://www.homedepot.com/p/WEN-6-in-2-1-Amp-Single-Speed-Bench-Grinder-with-Flexible-Work-Light-BG4276/316329182
 
 ## 8 inch
 sch:

@@ -15,3 +15,7 @@ $44.50  https://www.aliexpress.us/item/3256802110536517.html
 ## 8 inch
 sch:
 - https://www.harborfreight.com/power-tools/grinders/bench-grinders/8-in.html
+
+index:
+- https://www.amazon.com/WEN-BG4282-4-8-Amp-8-Inch-Grinder/dp/B08ZVHZBF9
+- https://www.harborfreight.com/power-tools/grinders/bench-grinders/8-in/8-in-bench-grinder-with-led-light-57287.html

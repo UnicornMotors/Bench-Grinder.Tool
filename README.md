@@ -1,4 +1,7 @@
 # Bench-Grinder.Tool
+
+# Recommedation:, note: I went to Harbor Freight and felt their selection, Baur´s 6 in. Bench Grinder is Extremely Solid and Heavy Duty!
+
 # Market:
 sch:
 - https://www.harborfreight.com/power-tools/grinders/bench-grinders.html
